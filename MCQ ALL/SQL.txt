@@ -1,0 +1,91 @@
+
+Interview Experiences
+
+Off Campus Drives
+LoginSignUp
+Computer Science Data model A
+Question 1 CORRECT
+Which of the following queries can be used to find out the rows containing the data about the candidates who took the entrance test more than two years ago?
+A
+SELECT * FROM Candidates WHERE dateOfTest
+SELECT * FROM Candidates WHERE dateOfTest
+C
+SELECT * FROM Candidates WHERE dateOfTest
+D
+SELECT * FROM Candidates WHERE dateOfTest>(yy,-2,GETDATE());
+Question 2 WRONG
+What will be the output of the following SQL query? SELECT Name, Age FROM tbl_student WHERE Age NOT BETWEEN 12 AND 15;
+A
+Displays only NULL values.
+Does not display NULL values.
+May display NULL values.
+D
+Error in the query.
+Question 3 WRONG
+A parent Process executes ______ system call to create a child process
+A
+exce()
+fork()
+child()
+D
+create()
+Question 4 WRONG
+Which of the following is example of Object based logical model ?
+Entity Relationship Model
+B
+Hierarchical Model
+Relational Model
+D
+Network Model
+Question 5 CORRECT
+An entity in A is associated with at most one entity in B, and an entity in B is associated with at most one entity in A.This is called as
+A
+One-to-many
+One-to-one
+C
+Many-to-many
+D
+Many-to-one
+Question 6
+The attribute name could be structured as a attribute consisting of first name, middle initial, and last name . This type of attribute is called
+A
+Simple attribute
+B
+Composite attribute
+C
+Multivalued attribute
+D
+Derived attribute
+Question 7 WRONG
+In the Relational Model, the number of columns in a table is termed as _______.
+A
+cardinality
+degree
+C
+domain
+None of these
+Question 8 WRONG
+Which company has developed the hierarchical model?
+IBM
+B
+Sun Microsystems
+Oracle
+D
+Microsoft
+Question 9 WRONG
+Which is the subset of SQL commands used to manipulate Oracle Database structures, including tables?
+Data Definition Language(DDL)
+B
+Data Manipulation Language(DML)
+Both of above
+D
+None
+Question 10 CORRECT
+What is a view?
+A
+A view is a special stored procedure executed when certain event occurs.
+A view is a virtual table which results of executing a pre-compiled query. A view is not part of the physical database schema, while the regular tables are.
+C
+A view is a database diagram.
+D
+
